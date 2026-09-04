@@ -1,0 +1,7 @@
+pandas
+fitparse
+gpxpy
+matplotlib
+seaborn
+jupyter
+sqlalchemy
