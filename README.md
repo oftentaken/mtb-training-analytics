@@ -6,8 +6,9 @@ Python → SQL → Power BI analytics pipeline.
 ![Dashboard screenshot](powerbi/dashboard_screenshot.png)
 
 ## Project status
-✅ Core pipeline complete: 430 rides (2022–2026) parsed, cleaned, analyzed, 
-and visualized. Ongoing as new rides accumulate.
+✅ Complete: 428 MTB rides (2023–2026) parsed, cleaned, analyzed, and 
+visualized with an interactive Power BI dashboard. Will continue to grow 
+as new rides accumulate.
 
 ## The question
 Is my MTB fitness actually improving season over season — and how do I prove 
