@@ -1,0 +1,29 @@
+{
+  "name": "MTB Dark Theme",
+  "dataColors": [
+    "#FF6B35",
+    "#2EC4B6",
+    "#E8E8E8",
+    "#FF9F1C",
+    "#8AC926",
+    "#6A4C93",
+    "#4D908E",
+    "#CBF3F0"
+  ],
+  "background": "#1A1A1A",
+  "foreground": "#FFFFFF",
+  "tableAccent": "#FF6B35",
+  "visualStyles": {
+    "*": {
+      "*": {
+        "title": [
+          {
+            "fontSize": 14,
+            "fontWeight": "bold",
+            "fontColor": {"solid": {"color": "#FFFFFF"}}
+          }
+        ]
+      }
+    }
+  }
+}
